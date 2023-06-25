@@ -1,3 +1,2 @@
-<h1> Drowsiness Detection System</h1>
-Drowsiness Detection System(webapp) 
+<h1>Drowsiness Detection System(webapp)</h1>
 <h2>Motivation:</h2>
