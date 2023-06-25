@@ -4,4 +4,8 @@ According to the National Highway Traffic Safety Administration, every year abou
 <h2>Installing and Configuring dlib:</h2>
 We need to create an enivronment in order to install dlib, as it cannot be directly installed using pip. So, follow this commands in order to install dlib into your system if you haven't installed it previously. Make sure you have Anaconda installed, as we will be doing everyting in Anaconda Prompt.<br><br>
 <h3>Step 1: Update conda</h3>
+<div class = "hightlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"
+  <pre>conda update conda</pre> ==$0
+   <div class="zeroclipboard-container position-absolute right-0 top-0"> </div>
+</div>
 
